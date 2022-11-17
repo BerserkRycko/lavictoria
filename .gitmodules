@@ -1,3 +1,7 @@
 [submodule "themes/hugo-la-victoria"]
 	path = themes/hugo-la-victoria
 	url = git:https://github.com/BerserkRycko/lavictoria.git
+
+[submodule "themes/hugo-universal-theme"]
+	path = themes/hugo-universal-theme
+	url = git:https://github.com/devcows/hugo-universal-theme.git
