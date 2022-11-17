@@ -3,4 +3,4 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "v0.101.0-466fa43c16709b4483689930a4f9ac8add5c9f66+extended windows/amd64 BuildDate=2022-06-16T07:09:16Z"
+  HUGO_VERSION = "v0.101.0-466fa43c16709b4483689930a4f9ac8add5c9f66+extended"
