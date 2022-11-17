@@ -1,0 +1,3 @@
+[submodule "themes/hugo-la-victoria"]
+	path = themes/hugo-la-victoria
+	url = git:https://github.com/BerserkRycko/lavictoria.git
