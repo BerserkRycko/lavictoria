@@ -1,0 +1,9 @@
+weight: 4
+title: "Compras al mayoreo"
+description: >
+  <ul class="list-style-none">
+    <li>Puedes comprar al mayorero para iniciar tu propio negocio.</li>
+    <li>Nuestros productos son de gran calidad</li>
+  </ul>
+image: "img/wholesale-purchases.png"
+href: "https://devcows.github.io/hugo-universal-theme/"
